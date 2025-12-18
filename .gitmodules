@@ -1,0 +1,12 @@
+[submodule "riscv"]
+	path = riscv
+	url = https://github.com/0x822a5b87/tiny-RISC-V.git
+[submodule "package-manager"]
+	path = package-manager
+	url = https://github.com/0x822a5b87/tiny-package-manager.git
+[submodule "linkers"]
+	path = linkers
+	url = https://github.com/0x822a5b87/tiny-linkers.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/0x822a5b87/tiny-docker.git
