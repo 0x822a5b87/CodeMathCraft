@@ -10,7 +10,7 @@ Record a simple snippet of code appearing in mind.
 
 # build my own from scratch
 
-- [docker from scratch](./docker)
-- [linkers](./linkers)
-- [package-manager](./package-manager)
-- [riscv](./riscv)
+- docker : a toy docker implementation;.
+- linkers: a toy linker for elf.
+- package-manager: a toy  package manager designed to emulate npm.
+- riscv
