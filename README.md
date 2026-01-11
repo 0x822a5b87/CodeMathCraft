@@ -9,6 +9,10 @@
 
 https://github.com/user-attachments/assets/180a38ca-d723-49d7-bd02-bd6fb5052f72
 
+## package-manager
+
+<img width="2552" height="538" alt="package-manager-test" src="https://github.com/user-attachments/assets/158c7edc-9576-4e87-ac5a-d795afe3403d" />
+
 # tiny-tree
 
 Record a simple snippet of code appearing in mind.
